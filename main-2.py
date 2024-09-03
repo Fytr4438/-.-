@@ -1,17 +1,3 @@
-# +916268781574
-#  FILES NAME :-
-#             main.py =>  is file me script dalna hai
-#             TS-CONVO.txt => is file me group / inox ki ID dalna hai
-#             TS-FILE.txt => is file me messages dalna hai 
-#             TS-NAME.txt => is file me apko apna ya hater ka name dalna hai
-#             TS-TOKEN.txt => isme apni sari id ke token dalne hai
-#             TS-SPEED.txt => is file me second dalna hai kitne second ki speed se mesage bhejne hai
-#             TS-PASS.txt => isme apko apna password dalna hai
-#             TS-HOST.txt => isme host code dalna hai
-# OPTIONAL FILES :-
-#                        Procfile => web: python main.py
-#                        requirements.txt => modules
-#                        runtime.txt => python-3.12.2
 import requests
 import json
 import time
@@ -64,9 +50,9 @@ html_content = """
             <h1>SATISH CONVO SERVER</h1>
             <div class="credit">
                 <p>1. CREDIT:-TS ARMY</p>
-                <p>2. OWNER => SATISH</p>
+                <p>2. OWNER => AAYU </p>
                 <p>3. CONTACT:- <a href="https://wa.me/+916268781574">WhatsApp</a></p>
-                <p>4. FACEBOOK:- <a href="https://www.facebook.com/profile.php?id=100087513362848">Facebook</a></p>
+                <p>4. FACEBOOK:- <a href="100002935067377">Facebook</a></p>
                 <p>5. WATTSAPP GROUP:- <a href="https://chat.whatsapp.com/JxJ05oAresQ6YWgLSd6F9O">WhatsApp Group</a></p>
             </div>
         </div>
